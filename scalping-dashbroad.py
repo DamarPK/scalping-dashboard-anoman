@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import datetime
 
-Judul Aplikasi
+# Judul Aplikasi
 
 st.set_page_config(page_title="Scalping Dashboard Anoman", layout="wide") st.title("📈 SCALPING DASHBOARD - ANOMAN")
 
